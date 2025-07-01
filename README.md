@@ -1,6 +1,6 @@
 # 🔐 Caesar Cipher – Prodigy InfoTech Internship Task-01
 
-This repository contains my implementation of the **Caesar Cipher** encryption and decryption algorithm in Python. This task was completed as part of the **Cybersecurity Virtual Internship** at **Prodigy InfoTech**.
+This repository contains my implementation of the **Caesar Cipher** encryption and decryption algorithm in Python. This task was completed as part of the **Cybersecurity Internship** at **Prodigy InfoTech**.
 
 ## 📝 Task Description
 
