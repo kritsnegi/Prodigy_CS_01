@@ -2,11 +2,16 @@
 
 This repository contains my implementation of the **Caesar Cipher** encryption and decryption algorithm in Python. This task was completed as part of the **Cybersecurity Internship** at **Prodigy InfoTech**.
 
-##📖 About Caesar Cipher
+## 📖 About Caesar Cipher
 The Caesar Cipher is a basic encryption technique where each letter in the message is shifted by a fixed number of positions in the alphabet.
 -Encryption shifts letters forward
 -Decryption shifts letters backward
 It’s a simple form of substitution cipher and is mainly used for educational purposes today.
+
+## 📌 What happens to numbers & special characters?
+In most implementations:
+- Numbers (0–9) and special characters (like !, @, #, etc.) are left unchanged
+- They are preserved in their original position during both encryption and decryption
 
 ## 📝 Task Description
 
